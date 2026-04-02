@@ -1,0 +1,34 @@
+Analyzing FileSnap...                                           
+
+warning - Unused import: 'package:flutter/foundation.dart' - lib\core\task_queue.dart:3:8 - unused_import
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\theme\app_theme.dart:93:35 - deprecated_member_use
+   info - Parameter 'key' could be a super parameter - lib\ui\screens\about_screen.dart:6:9 - use_super_parameters
+   info - Parameter 'key' could be a super parameter - lib\ui\screens\image_tools\compress_tool.dart:10:9 - use_super_parameters
+   info - The private field _targetSize could be 'final' - lib\ui\screens\image_tools\compress_tool.dart:21:10 - prefer_final_fields
+warning - The value of the field '_targetSize' isn't used - lib\ui\screens\image_tools\compress_tool.dart:21:10 - unused_field
+warning - Unused import: 'package:pdf/pdf.dart' - lib\ui\screens\image_tools\convert_tool.dart:4:8 - unused_import
+   info - Parameter 'key' could be a super parameter - lib\ui\screens\image_tools\convert_tool.dart:11:9 - use_super_parameters
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\ui\screens\image_tools\image_home.dart:23:70 - deprecated_member_use
+warning - The value of the field '_statusMessage' isn't used - lib\ui\screens\image_tools\resize_tool.dart:22:10 - unused_field
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\ui\screens\image_tools\resize_tool.dart:115:74 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\ui\screens\image_tools\resize_tool.dart:181:37 - deprecated_member_use
+  error - Target of URI doesn't exist: '../../services/storage_service.dart' - lib\ui\screens\pdf_tools\images_to_pdf.dart:7:8 - uri_does_not_exist
+   info - Parameter 'key' could be a super parameter - lib\ui\screens\pdf_tools\images_to_pdf.dart:11:9 - use_super_parameters
+  error - Undefined name 'StorageService' - lib\ui\screens\pdf_tools\images_to_pdf.dart:48:30 - undefined_identifier
+  error - The getter 'images' isn't defined for the type 'LucideIcons' - lib\ui\screens\pdf_tools\images_to_pdf.dart:79:44 - undefined_getter
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\ui\screens\pdf_tools\images_to_pdf.dart:79:100 - deprecated_member_use
+   info - Parameter 'key' could be a super parameter - lib\ui\screens\pdf_tools\pdf_home.dart:7:9 - use_super_parameters
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\ui\screens\pdf_tools\pdf_home.dart:21:70 - deprecated_member_use
+   info - Parameter 'key' could be a super parameter - lib\ui\screens\settings_screen.dart:8:9 - use_super_parameters
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\ui\screens\setup_screen.dart:75:47 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\ui\screens\setup_screen.dart:98:89 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\ui\screens\splash_screen.dart:100:56 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\ui\widgets\bottom_dock.dart:19:44 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\ui\widgets\bottom_dock.dart:23:33 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\ui\widgets\bottom_dock.dart:46:57 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\ui\widgets\bottom_dock.dart:82:72 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\ui\widgets\side_menu.dart:26:61 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\ui\widgets\side_menu.dart:71:76 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\ui\widgets\tool_card.dart:25:35 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\ui\widgets\tool_card.dart:37:55 - deprecated_member_use
+

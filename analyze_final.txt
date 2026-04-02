@@ -1,0 +1,14 @@
+Analyzing FileSnap...                                           
+
+   info - Parameter 'key' could be a super parameter - lib\ui\screens\about_screen.dart:6:9 - use_super_parameters
+   info - Parameter 'key' could be a super parameter - lib\ui\screens\image_tools\compress_tool.dart:10:9 - use_super_parameters
+   info - Parameter 'key' could be a super parameter - lib\ui\screens\image_tools\convert_tool.dart:10:9 - use_super_parameters
+   info - Parameter 'key' could be a super parameter - lib\ui\screens\pdf_tools\images_to_pdf.dart:34:9 - use_super_parameters
+   info - Parameter 'key' could be a super parameter - lib\ui\screens\pdf_tools\pdf_viewer_screen.dart:11:9 - use_super_parameters
+   info - 'Share' is deprecated and shouldn't be used. Use SharePlus instead - lib\ui\screens\pdf_tools\pdf_viewer_screen.dart:33:15 - deprecated_member_use
+   info - 'shareXFiles' is deprecated and shouldn't be used. Use SharePlus.instance.share() instead - lib\ui\screens\pdf_tools\pdf_viewer_screen.dart:33:21 - deprecated_member_use
+   info - The local variable '_pages' starts with an underscore - lib\ui\screens\pdf_tools\pdf_viewer_screen.dart:50:24 - no_leading_underscores_for_local_identifiers
+   info - Parameter 'key' could be a super parameter - lib\ui\widgets\bouncing_button.dart:9:9 - use_super_parameters
+   info - Parameter 'key' could be a super parameter - lib\ui\widgets\processing_screen.dart:6:9 - use_super_parameters
+
+10 issues found. (ran in 10.2s)

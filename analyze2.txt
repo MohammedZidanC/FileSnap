@@ -1,0 +1,23 @@
+﻿Analyzing FileSnap...                                           
+
+   info - The imported package 'path' isn't a dependency of the importing package - lib\services\image_service.dart:3:8 - depend_on_referenced_packages
+   info - The imported package 'path' isn't a dependency of the importing package - lib\services\storage_service.dart:3:8 - depend_on_referenced_packages
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\theme\app_theme.dart:93:35 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\ui\screens\image_tools\image_home.dart:21:70 - deprecated_member_use
+  error - Target of URI doesn't exist: '../../services/image_service.dart' - lib\ui\screens\image_tools\resize_tool.dart:5:8 - uri_does_not_exist
+warning - The value of the field '_statusMessage' isn't used - lib\ui\screens\image_tools\resize_tool.dart:23:10 - unused_field
+  error - Undefined name 'ImageService' - lib\ui\screens\image_tools\resize_tool.dart:59:31 - undefined_identifier
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\ui\screens\image_tools\resize_tool.dart:116:74 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\ui\screens\image_tools\resize_tool.dart:182:37 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\ui\screens\setup_screen.dart:75:47 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\ui\screens\setup_screen.dart:98:89 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\ui\screens\splash_screen.dart:100:56 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\ui\widgets\bottom_dock.dart:19:44 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\ui\widgets\bottom_dock.dart:23:33 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\ui\widgets\bottom_dock.dart:46:57 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\ui\widgets\bottom_dock.dart:82:72 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\ui\widgets\side_menu.dart:24:61 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\ui\widgets\side_menu.dart:67:76 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\ui\widgets\tool_card.dart:25:35 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\ui\widgets\tool_card.dart:37:55 - deprecated_member_use
+

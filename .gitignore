@@ -1,0 +1,22 @@
+# Flutter
+build/
+.dart_tool/
+.packages
+pubspec.lock
+
+# Android
+.gradle/
+local.properties
+
+# IDE
+.idea/
+.vscode/
+
+# APKs
+*.apk
+
+# Misc
+*.log
+
+# Heap dumps
+*.hprof
