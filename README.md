@@ -8,6 +8,10 @@ FileSnap is a premium, offline-first digital utility application meticulously cr
 Get the latest stable Android build directly:
 👉 [Download FileSnap v1.0 APK](https://github.com/MohammedZidanC/FileSnap/releases/download/1.0/FileSnap.v1.0.apk)
 
+### 💻 Windows
+Get the latest stable Windows build directly:
+👉 [Download FileSnap v1.0 (Windows)](https://github.com/MohammedZidanC/FileSnap/releases/tag/1.0-windows)
+
 ---
 
 ## Features
